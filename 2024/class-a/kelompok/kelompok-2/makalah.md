@@ -19,6 +19,6 @@ sasjahsjahdjs
 3.
 
 ## BAB 2 Pembahasan
-**1. Posisi teknologi sebagai mitos!**
+**1. Posisi teknologi sebagai mitos**
 
 Materi tya
