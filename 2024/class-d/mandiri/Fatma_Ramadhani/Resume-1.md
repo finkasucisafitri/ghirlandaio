@@ -30,4 +30,4 @@ Dari pertanyaan saat presentasi, terlihat juga bahwa sains bukan cuma teori, tap
 Jadi, saya setuju bahwa sains sangat memengaruhi kehidupan sosial manusia. Tapi, pengaruh tersebut tetap perlu diimbangi dengan nilai-nilai agama, supaya manfaatnya tetap positif dan tidak menimbulkan dampak negatif.
 
 # Referensi
-[^1]: Pengaruh Perkembangan Sains Terhadap Kehidupan Manusia. (tanpa tahun). Diakses dari: https://www.scribd.com/doc/108945788/Pengaruh-Perkembangan-Sains-Terhadap-Kehidupan-Manusia
+[^1]: Pengaruh Perkembangan Sains Terhadap Kehidupan Manusia. Diakses dari: https://www.scribd.com/doc/108945788/Pengaruh-Perkembangan-Sains-Terhadap-Kehidupan-Manusia
