@@ -15,25 +15,46 @@
   FAKULTAS ADAB DAN HUMANIORA</b><br>
   <b>UNIVERSITAS ISLAM NEGERI<br>
   SYARIFHIDAYATULLAH</b><br>
-  JAKARTA
-  <b>2026</b>
+  <b>JAKARTA</b><br>
+  <b>2026</b><br>
 </div>
 
+<div align="center">
+  <h1>KATA PENGANTAR</h1><br>
+</div>
 
-# KATA PENGANTAR
 Puji syukur kami panjatkan atas kehadirat Allah Swt yang telah melimpahkan rahmat dan hidayah-Nya sehingga kami dapat 
-menyelesaikan makalah yang berjudul “Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka”. 
+menyelesaikan makalah yang berjudul “Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka”.
+
 Tidak lupa kami mengucapkan terimakasih kepada Bapak Al Muhdil Karim, S. IP., M. Hum. 
 selaku dosen pengampu mata kuliah Perpustakaan dan Arsip Digital  yang telah memberikan tugas ini, 
 sehingga dapat menambah pengetahuan dan wawasan.
-Ucapan terima kasih juga kami sampaikan kepada semua pihak yang telah membantu dalam proses penyusunan makalah ini. 
+Ucapan terima kasih juga kami sampaikan kepada semua pihak yang telah membantu dalam proses penyusunan makalah ini.
+
 Kami menyadari bahwa makalah ini masih jauh dari kata sempurna dan terdapat 
 kekurangan di dalamnya, baik dari penyusunan maupun tata bahasa penyampaian yang 
 digunakan. Untuk itu, kami mengharapkan kritik dan saran dari para pembaca agar dapat 
 menjadi acuan dalam membuat makalah yang lebih baik di masa mendatang. Akhir kata 
 semoga makalah ini dapat memberikan manfaat bagi para pembaca.
-Tangerang Selatan, 7 April 2026
+<br>
+<br>
+<div align="right">
+  <p>Tangerang Selatan, 7 April 2026</p><br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <p>Kelompok 3</p>
+</div>
 
+<div align="center">
+  <h1>DAFTAR ISI</h1>
+</div>
+
+<div align="center">
+  <h1>BAB I</h1>
+  <h1>PENDAHULUAN</h1>
+</div>
 ## 1.1 Latar Belakang
 Perkembangan teknologi informasi sejak pertengahan abad ke-20 telah mengubah secara mendasar lanskap sosial, ekonomi, politik, dan budaya global. Era 1960-an menandai titik balik ketika komputer beralih dari instrumen hitung militer-ilmiah yang terpusat menjadi fondasi infrastruktur digital yang kini menopang peradaban kontemporer. Dalam kurun waktu lebih dari enam dekade, dinamika penciptaan, distribusi, dan pemanfaatan teknologi tidak lagi digerakkan oleh satu aktor tunggal, melainkan oleh interaksi kompleks antara negara, sektor swasta, komunitas teknis, serta nilai-nilai ideologis yang melingkupinya. Memetakan pola hubungan antar-aktor tersebut menjadi prasyarat untuk memahami mengapa teknologi berkembang dalam bentuk, arah, dan regulasi seperti yang kita saksikan hari ini.
 
@@ -65,7 +86,10 @@ Adapun tujuan penulisan makalah ini adalah:
 - Memberikan inspirasi bagi pembaca bahwa untuk menciptakan perubahan, diperlukan keberanian untuk menjadi *troublemaker* dalam arti yang positif.
 - Membantu pembaca memahami perdebatan antara kode sumber terbuka (*Open source*) dan tertutup (*closed source*).
 
-# 2. PEMBAHASAN
+<div align="center">
+  <h1>BAB II</h1>
+  <h1>PEMBAHASAN</h1>
+</div>
 
 ## 2.1 Pola Hubungan Antara Negara dan Teknologi Pada Rentang Tahun 1960-Sekarang
 Dalam Das Kapital, Marx menegaskan bahwa negara bukanlah entitas netral,
@@ -143,7 +167,22 @@ Dengan demikian, perdebatan open source versus closed source bukan hanya soal
 teknologi, tetapi juga soal ideologi yang mendasari struktur masyarakat modern.
 Kode sumber itu bukan hanya instruksi teknis, tetapi juga membawa ideologi. Closed source ideologi kapitalisme (privatisasi, kontrol, profit). Open source ideologi kolektif (akses terbuka, kerja sama, kebersamaan). Jadi, cara kita mengatur kode sumber ikut menentukan bentuk relasi sosial di masyarakat.
 
-# 3. PENUTUP
+<div align="center">
+  <h1>BAB III</h1>
+  <h1>PENUTUP</h1>
+</div>
+
+## 3.1 Kesimpulan
 Transformasi  teknologi sejak 1960-an hingga sekarang menunjukkan bahwa teknologi tidak pernah netral. Ia selalu berkembang dalam interaksi antara negara, swasta, komunitas teknis, dan ideologi. Negara berperan sebagai pengatur sekaligus penjaga kepentingan kapitalisme, memastikan teknologi diarahkan untuk mendukung industri besar. Sementara itu, sektor swasta menjadi motor utama komersialisasi dan inovasi, membentuk ekosistem digital global melalui kompetisi dan model bisnis baru.
 
 Budaya hacking, yang sering disalahpahami, justru memberi kontribusi besar dalam lahirnya perangkat lunak modern, keamanan siber, dan metode kerja kolaboratif. Sejak 1970-an, perdebatan open source dan closed source mencerminkan tarik-menarik antara kebebasan akses dan perlindungan aset komersial. Sikap terhadap keduanya bukan sekadar teknis, melainkan pilihan politik dan ideologis.
+
+<div align="center">
+  <h1>DAFTAR PUSTAKA</h1>
+</div>
+
+1. Berlin, L. (2017). Troublemakers: Silicon Valley Coming of Age. Simon & Schuster.
+2. Mowery, D. C., & Sampat, B. N. (2004). The Bayh-Dole Act of 1980 and university–industry technology transfer. The Journal of Technology Transfer, 29(1–2), 115–127.
+3. Weber, S. (2004). The Success of Open Source. Harvard University Press.
+4. West, J., & Gallagher, S. (2006). Challenges of Open Innovation: The Paradox of Firm Investment in Open Source Software. R&D Management, 36(3), 319–331.
+5. von Hippel, E., & von Krogh, G. (2003). Open Source Software and the "Private-Collective" Innovation Model: Issues for Organization Science. Organization Science, 14(2), 209–223.
